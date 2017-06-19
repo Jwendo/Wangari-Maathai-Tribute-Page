@@ -1,0 +1,28 @@
+.container-fluid{
+  background-color:skyblue;
+}
+.container{
+   width:30%;
+  background-color:lightblue;
+  
+}
+
+.container img{
+  max-width:100%; 
+  max-height:100%;
+  margin:auto;
+  display:block;
+  padding:1px;
+}
+
+.body-text{
+  padding: 20px 150px 10px 150px; 
+    width: 100%;
+    overflow: auto;
+}
+
+.italic{
+  font-style:italic;
+}
+  
+  
